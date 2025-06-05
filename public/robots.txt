@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://submitly.com/sitemap.xml
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+
+# Allow important pages
+Allow: /
+Allow: /submit
+Allow: /blog
+Allow: /info
+Allow: /terms
+Allow: /refund-policy
+Allow: /privacy
+Allow: /contact
